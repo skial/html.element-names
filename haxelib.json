@@ -1,0 +1,13 @@
+{
+    "name": "html.element-names",
+    "url" : "https://github.com/skial/html.element-names",
+    "license": "MIT",
+    "tags": ["html", "element", "names"],
+    "description": "A simple enum abstract of Html element names.",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "Initial release.",
+    "contributors": ["skial"],
+    "dependencies": {
+    }
+  }
